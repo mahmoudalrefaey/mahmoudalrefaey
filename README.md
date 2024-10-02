@@ -12,8 +12,8 @@
 
 ### 👨‍💻 About Me:
 - 📋 **Resume**: Check it out [**here**](https://docs.google.com/document/d/1DpsIHadMqk_YwLEKznLGaBLmlsBB2W4CPC1ugGi8wXQ/edit?usp=sharing)  
-- 💬 **Ask me about**: Machine Learning, Deep Learning, Data Science
-- 📫 **Reach me at**: [mahmoudalrefaey1@gmail.com](mailto:mahmoudalrefaey1@gmail.com) | **+20 1026295189**   
+- 💬 **Ask me about**: ML, Deep Learning, Data Science
+- 📫 **Reach me at**: [My Email](mailto:mahmoudalrefaey1@gmail.com) | **+20 1026295189**   
 
 ---
 
@@ -47,7 +47,12 @@
 - ![Duration Badge](https://img.shields.io/badge/Duration-October%202021%20–%20July%202025-yellow)
 
 ---
+🏫 **AI & Data Science Training course by IBM**
 
+- ![University Badge](https://img.shields.io/badge/Digital_Egypt_Pioneers_Initiative-0055A4?style=flat&logo=university&logoColor=white)
+- ![Duration Badge](https://img.shields.io/badge/Duration-October%202024%20–%20May%202025-yellow)
+
+---
 <br>
 
 # 💼 Experience

@@ -41,14 +41,36 @@
 #### 🏫 **B.CS. in Artificial Intelligence**
 
 - ![University Badge](https://img.shields.io/badge/Egyptian_Russian_University-0055A4?style=flat&logo=university&logoColor=white)
-- ![GPA Badge](https://img.shields.io/badge/GPA-3.12/4.0-brightgreen)
-- ![Duration Badge](https://img.shields.io/badge/Duration-October%202021%20–%20July%202025-yellow)
+- ![GPA Badge](https://img.shields.io/badge/GPA-3.11/4.0-brightgreen)
+- ![Duration Badge](https://img.shields.io/badge/Duration-February%202021%20–%20July%202025-yellow)
 
 ---
-🏫 **AI & Data Science Training course by IBM**
+
+#### 🏫 **AI & Data Science - Data Scientist course by IBM**
 
 - ![University Badge](https://img.shields.io/badge/Digital_Egypt_Pioneers_Initiative-0055A4?style=flat&logo=university&logoColor=white)
 - ![Duration Badge](https://img.shields.io/badge/Duration-October%202024%20–%20May%202025-yellow)
+
+---
+
+#### 🏫 **Data Analysis & Intermediate Python training course**
+
+- ![University Badge](https://img.shields.io/badge/Huawei_ICT_Academy-FF0000?style=flat&logo=huawei&logoColor=white)
+- ![Duration Badge](https://img.shields.io/badge/Duration-May%202023%20–%20July%202023-yellow)
+
+---
+
+#### 🏫 **ML & Deep Learning training course**
+
+- ![University Badge](https://img.shields.io/badge/Zewail_City_of_Science_and_Technology-1E90FF?style=flat&logo=university&logoColor=white)
+- ![Duration Badge](https://img.shields.io/badge/Duration-June%202023%20–%20August%202023-yellow)
+
+---
+
+#### 🏫 **McKinsey Forward Program**
+
+- ![University Badge](https://img.shields.io/badge/McKinsey_Forward_Program-0055A4?style=flat&logo=mckinsey&logoColor=white)
+- ![Duration Badge](https://img.shields.io/badge/Duration-October%202024%20–%20December%202024-yellow)
 
 ---
 <br>
@@ -77,51 +99,40 @@
 
 ### 🖥️ Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![MatLab](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 
 ### 🤖 Machine Learning & NLP
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-315796?style=flat&logo=matplotlib&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
-![SpaCy](https://img.shields.io/badge/SpaCy-000000?style=flat&logo=spacy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-339933?style=flat&logo=nltk&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-000000?style=flat&logo=huggingface&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-339933?style=flat&logo=nlp&logoColor=white)
 
-### 🧠 Deep Learning & GenAI
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Langchain](https://img.shields.io/badge/Langchain-000000?style=flat&logo=langchain&logoColor=white)
-![Cohere](https://img.shields.io/badge/Cohere-00A3E0?style=flat&logo=cohere&logoColor=white)
+### 🧠 Deep Learning
+![Convolutional Neural Networks](https://img.shields.io/badge/CNN-FF4500?style=flat&logo=deep-learning&logoColor=white)
+![Recurrent Neural Networks](https://img.shields.io/badge/RNN-8B0000?style=flat&logo=deep-learning&logoColor=white)
+![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-4B0082?style=flat&logo=transfer-learning&logoColor=white)
 
-### 📊 Data Science & Business Intelligence
+### 📊 Data Science & Visualization
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-0080FF?style=flat&logo=apache-airflow&logoColor=white)
-![DBT](https://img.shields.io/badge/DBT-000000?style=flat&logo=dbt&logoColor=white)
-![SSIS](https://img.shields.io/badge/SSIS-FF2C20?style=flat&logo=microsoft&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-FE7A16?style=flat&logo=etl&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-5382A1?style=flat&logo=nosql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-00E7B7?style=flat&logo=snowflake&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-4B0082?style=flat&logo=statistics&logoColor=white)
-![Time Series](https://img.shields.io/badge/Time%20Series-FF4500?style=flat&logo=time-series&logoColor=white)
-![Web Scraping](https://img.shields.io/badge/Web%20Scraping-000000?style=flat&logo=web-scraping&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-### ☁️ Familiar with Cloud Computing & Services
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Google Cloud Storage](https://img.shields.io/badge/Google%20Cloud%20Storage-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Azure Blob Storage](https://img.shields.io/badge/Azure%20Blob%20Storage-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![AWS Kinesis](https://img.shields.io/badge/AWS%20Kinesis-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-bigquery&logoColor=white)
-![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-232F3E?style=flat&logo=amazon-sagemaker&logoColor=white)
-![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-1E1E1E?style=flat&logo=azure-databricks&logoColor=white)
-![S3 Bucket](https://img.shields.io/badge/S3%20Bucket-569A31?style=flat&logo=amazon-s3&logoColor=white)
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
-
+### 🔧 Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 <br>
 

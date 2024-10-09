@@ -97,12 +97,16 @@
 
 ## 🛠️ Technical Skills
 
+---
+
 ### 🖥️ Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![MatLab](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+
+---
 
 ### 🤖 Machine Learning & NLP
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -115,10 +119,14 @@
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-339933?style=flat&logo=nlp&logoColor=white)
 
+---
+
 ### 🧠 Deep Learning
 ![Convolutional Neural Networks](https://img.shields.io/badge/CNN-FF4500?style=flat&logo=deep-learning&logoColor=white)
 ![Recurrent Neural Networks](https://img.shields.io/badge/RNN-8B0000?style=flat&logo=deep-learning&logoColor=white)
 ![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-4B0082?style=flat&logo=transfer-learning&logoColor=white)
+
+---
 
 ### 📊 Data Science & Visualization
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=microsoft-sql-server&logoColor=white)
@@ -126,34 +134,71 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
+---
+
 ### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+
+---
 
 ### 🔧 Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
+---
+
 <br>
 
 ## 🌟 Soft Skills
 
+---
+
 ### 🎯 Problem-Solving & Critical Thinking
-- Proficient in **breaking down complex problems** and designing efficient, scalable solutions.
 
-### 🧑‍🤝‍🧑 Teamwork & Collaboration
-- Experience working in **cross-functional teams**.
-- Strong **collaboration and communication** skills with both technical and non-technical stakeholders.
+- Proven ability to analyze complex problems and devise data-driven solutions.
+- Highly adept at evaluating models and making decisions based on analytical insights.
 
-### 💡 Creativity & Innovation
-- **Innovative thinker** with a passion for exploring new technologies and solving real-world problems through AI and data science.
+---
 
-### 📅 Time Management & Organization
-- Ability to manage multiple projects simultaneously, **prioritizing tasks** and meeting tight deadlines in fast-paced environments.
+### 🤝 Teamwork & Collaboration
 
-### 🎙️ Communication & Presentation
-- Skilled at conveying technical insights to diverse audiences, making complex data **accessible and actionable**.
-- Proficient in **presenting data-driven findings** clearly and persuasively.
+- Experience working in interdisciplinary teams to develop AI solutions.
+- Strong communication skills with both technical and non-technical stakeholders.
 
-### 📈 Continuous Learning
-- A mindset of **continuous learning** with an interest in staying updated with the latest trends in AI, machine learning, and data science.
+---
+
+### 🧠 Creativity & Innovation
+
+- Passionate about solving unconventional challenges through innovative use of AI and data.
+
+---
+
+### 🗣️ Communication
+
+- Ability to explain technical concepts clearly to non-technical stakeholders.
+
+---
+
+### 👨‍🏫 Leadership
+
+- Led group projects and mentored junior team members in machine learning methodologies.
+
+---
+
+### ⏳ Time Management
+
+- Efficiently managed overlapping academic and internship responsibilities while delivering high-quality work.
+
+---
+
+### 🔍 Attention to Detail
+
+- Rigorous in model tuning, ensuring precision and accuracy in results.
+
+---
+
+### 🔥 Self-Motivation
+
+- Consistently driven to improve technical skills and apply them in real-world scenarios.
+

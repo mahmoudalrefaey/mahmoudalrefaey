@@ -1,6 +1,7 @@
-![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
-<h1 align="center">Howdy!👋, This Mahmoud Al-Refaey</h1>
-<h3 align="center">Data Scientist & ML Engineer</h3>
+<div align="center">
+  <img src="https://i.makeagif.com/media/8-01-2017/dpK9_s.gif" alt="MasterHead" width="800" />
+</div>
+<h1 align="center">Howdy!👋, I am Mahmoud Al-Refaey</h1>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mahmoudalrefaey&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudalrefaey" /> 
@@ -11,6 +12,7 @@
 ### 👨‍💻 About Me:
 - 📋 **Resume**: Check it out [**here**](https://docs.google.com/document/d/1DpsIHadMqk_YwLEKznLGaBLmlsBB2W4CPC1ugGi8wXQ/edit?usp=sharing)  
 - 💬 **Ask me about**: Machine Learning, Deep Learning, Data Science
+- 🧐 **Interested in**: ComputerVision, NLP, ANN Science
 - 📫 **Reach me at**: [dev.mahmoudrefaey@gmail.com](mailto:dev.mahmoudrefaey@gmail.com) | **+20 1026295189**      
 
 ---
@@ -54,24 +56,14 @@
 ---
 
 #### 🏫 **Data Analysis & Intermediate Python training course**
-
 - ![University Badge](https://img.shields.io/badge/Huawei_ICT_Academy-FF0000?style=flat&logo=huawei&logoColor=white)
 - ![Duration Badge](https://img.shields.io/badge/Duration-May%202023%20–%20July%202023-yellow)
-
 ---
 
 #### 🏫 **ML & Deep Learning training course**
 
 - ![University Badge](https://img.shields.io/badge/Zewail_City_of_Science_and_Technology-1E90FF?style=flat&logo=university&logoColor=white)
 - ![Duration Badge](https://img.shields.io/badge/Duration-June%202023%20–%20August%202023-yellow)
-
----
-
-#### 🏫 **McKinsey Forward Program**
-
-- ![University Badge](https://img.shields.io/badge/McKinsey_Forward_Program-0055A4?style=flat&logo=mckinsey&logoColor=white)
-- ![Duration Badge](https://img.shields.io/badge/Duration-October%202024%20–%20December%202024-yellow)
-
 ---
 <br>
 
@@ -79,17 +71,14 @@
 
 ---
 
-## 🧑‍💻 Machine Learning Intern  
-**Prodigy InfoTech** · *Remote*  
-**Dec 2023 - Feb 2024** (2 month)  
+## 🧑‍💻 Coding Instructor  
+**Fakhr Academy** · *Remote*  
+**Sep 2023 - Present**
 
 **Key Responsibilities:**
-- Implemented **machine learning models** to analyze and predict outcomes based on large datasets.
-- Conducted **data cleaning** and preprocessing to ensure high-quality input for model training.
-- Designed and applied **feature engineering** techniques to optimize predictive performance.
-- Created **data visualizations** to communicate insights and model outcomes to stakeholders.
+- Teach programming concepts and enhance coding skills in students through interactive and engaging sessions. Focus on fostering a strong foundation in computer science and software development for learners of all levels. Empowering students with the skills to excel in modern technology-driven education. Encourage problem-solving, critical thinking, and creativity to prepare students for real-world programming challenges.
 
-[![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) [![Data Visualization](https://img.shields.io/badge/Data_Visualization-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_visualization) [![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_cleansing) [![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Feature_engineering)
+[![Programming Languages](https://img.shields.io/badge/Programming_Languages-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) [![Teaching](https://img.shields.io/badge/Teaching-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_visualization) [![E-Learning](https://img.shields.io/badge/E-Learning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_cleansing) [![Tutoring](https://img.shields.io/badge/Tutoring-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Feature_engineering)
 
 ---
 

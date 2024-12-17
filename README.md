@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.makeagif.com/media/8-01-2017/dpK9_s.gif" alt="MasterHead" width="800" />
+  <img src="https://www.lambdatest.com/blog/wp-content/uploads/2020/01/ezgif.com-gif-maker.gif" alt="MasterHead" width="800" />
 </div>
 <h1 align="center">Howdy!👋, I am Mahmoud Al-Refaey</h1>
 

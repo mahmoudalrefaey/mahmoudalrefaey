@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.lambdatest.com/blog/wp-content/uploads/2020/01/ezgif.com-gif-maker.gif" alt="MasterHead" width="800" />
+  <img src="https://media1.tenor.com/m/PPn5QJWoT_UAAAAC/monkey-computer.gif" width="1000" height="600"/>
 </div>
 <h1 align="center">Howdy!👋, I am Mahmoud Al-Refaey</h1>
 <h3 align="center">Junior AI Engineer & Data Scientist</h3>

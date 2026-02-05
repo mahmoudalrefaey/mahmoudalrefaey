@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/PPn5QJWoT_UAAAAC/monkey-computer.gif" width="1000" height="600"/>
+  <img src="https://media1.tenor.com/m/PPn5QJWoT_UAAAAC/monkey-computer.gif" width="800"/>
 </div>
 <h1 align="center">Howdy!👋, I am Mahmoud Al-Refaey</h1>
 <h3 align="center">Junior AI Engineer & Data Scientist</h3>

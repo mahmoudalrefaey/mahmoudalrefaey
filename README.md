@@ -1,278 +1,156 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif" width="800"/>
+  <img src="https://media1.tenor.com/m/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif" width="100%" alt="Monkey typing at a computer"/>
 </div>
-<h1 align="center">Howdy!👋, I am Mahmoud Al-Refaey</h1>
-<h3 align="center">Junior AI Engineer & Data Scientist</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mahmoudalrefaey&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudalrefaey" /> 
+<div align="center">
+
+# Mahmoud Refaey
+
+<a href="https://mahmoudrefaey.dev">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=640&lines=AI+Engineer+%7C+LLM+applications%2C+RAG+%26+agents;Text-to-SQL+agents+%7C+Arabic+NLP+%26+OCR;Fine-tuning+vision-language+models" alt="AI Engineer | LLM applications, RAG and agents"/>
+</a>
+
+<p>
+  <a href="https://mahmoudrefaey.dev"><img src="https://img.shields.io/badge/Portfolio-mahmoudrefaey.dev-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/mahmoudmalrefaey/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:dev.mahmoudrefaey@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://huggingface.co/mahmoudalrefaey"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
+  <a href="https://www.kaggle.com/mahmoudalrefaey"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://wa.me/201026295189"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
 
----
+<img src="https://komarev.com/ghpvc/?username=mahmoudalrefaey&label=Profile%20views&color=2f81f7&style=flat-square" alt="Profile views"/>
 
-### 👨‍💻 About Me:
+</div>
 
-Innovative AI Engineer and Data Scientist with a B.Sc. in Artificial Intelligence (Honors) and hands-on experience in Distributed Computing and Generative AI. Proficient in the full ML lifecycle—from fine-tuning LLMs (Llama 3, QLoRA) and implementing RAG pipelines to deploying production-ready applications using Django and React.
+## <img src="https://api.iconify.design/lucide/user-round.svg?color=%232f81f7" height="24" align="top" alt=""/> About me
 
-- 📋 **Resume**: Check it out [**here**](https://docs.google.com/document/d/1JV2VYZoAM_Ypk061Pw2hyYQXuK84PvaLfy6AaLCL-F8/edit?tab=t.0)  
-- 💬 **Ask me about**: Generative AI, LLMs, RAG Pipelines, Machine Learning, Deep Learning, Data Science
-- 🧐 **Interested in**: NLP, Computer Vision, Distributed AI, MLOps
-- 📫 **Reach me at**: [dev.mahmoudrefaey@gmail.com](mailto:dev.mahmoudrefaey@gmail.com) | **+20 1026295189**
-- 📍 **Location**: Cairo, Egypt      
+AI Engineer building LLM applications: retrieval-augmented generation (RAG), agents and Text-to-SQL, including Arabic document and OCR pipelines. I hold a B.Sc. in Artificial Intelligence (Honors) from the Egyptian Russian University and I'm based in Cairo, Egypt.
 
----
+- <img src="https://api.iconify.design/lucide/briefcase.svg?color=%232f81f7" height="16" align="center" alt=""/> **Now:** AI Intern at Global Brands Group (GBG), working on Arabic RAG and Text-to-SQL agents
+- <img src="https://api.iconify.design/lucide/message-circle.svg?color=%232f81f7" height="16" align="center" alt=""/> **Ask me about:** RAG, LLM agents, LangGraph, fine-tuning, Arabic NLP
+- <img src="https://api.iconify.design/lucide/file-text.svg?color=%232f81f7" height="16" align="center" alt=""/> **Resume:** [mahmoudrefaey.dev](https://mahmoudrefaey.dev)
+- <img src="https://api.iconify.design/lucide/languages.svg?color=%232f81f7" height="16" align="center" alt=""/> **Languages:** Arabic (native), English (fluent)
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/mahmoudmalrefaey/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Abdullah Khaled" height="40" width="40" />
-  </a>
-  <a href="https://www.kaggle.com/mahmoudalrefaey" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle - Abdullah Khaled" height="40" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/mahmoudalrefaey" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - Abdullah Khaled" height="40" width="40" />
-  </a>
-  <a href="https://wa.me/+201026295189" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp - Abdullah Khaled" height="40" width="40" />
-  </a>
-</p>
+## <img src="https://api.iconify.design/lucide/briefcase.svg?color=%232f81f7" height="24" align="top" alt=""/> Experience
 
+### AI Intern · Global Brands Group (GBG)
+<sub>Aug 2026 – Present · 5th Settlement, Cairo · Hybrid</sub>
+
+- **Arab Bank documents chatbot (Arabic RAG):** worked on most of the pipeline, from EasyOCR ingestion and chunking to hybrid retrieval (BM25 + `text-embedding-3-large` with weighted reciprocal rank fusion), query rewriting, routing, cross-encoder reranking and evaluation.
+- Helped raise **faithfulness from 79% to 97%** and **correctness from 61% to 85%** (DeepEval, LLM-as-judge).
+- **[Chinhook](https://github.com/mahmoudalrefaey/chinhook):** co-developed an open-source Text-to-SQL agent (team of 4, sponsored by GBG). I designed the LangGraph agent workflow, restructured the codebase for multi-tenancy, and deployed the internal version on Azure.
+
+### AI Engineer Intern · Beetleware
+<sub>Aug 2025 – Jan 2026 · Remote</sub>
+
+- Worked on **NexaOS**, an AI-powered web desktop application, across AI and full-stack development.
+- Built an assistant agent for the marketing team, a RAG chatbot over the system's content and documents, and AI text generation inside NexaOS apps.
+
+## <img src="https://api.iconify.design/lucide/rocket.svg?color=%232f81f7" height="24" align="top" alt=""/> Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mahmoudalrefaey/chinhook">Chinhook</a></h3>
+      <p>Open-source agent that answers plain-language questions over PostgreSQL and MySQL with read-only, verified SQL. Users bring their own database and model.</p>
+      <p>
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/>
+        <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" alt="Qdrant"/>
+        <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=openai&logoColor=white" alt="Azure OpenAI"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+      </p>
+      <a href="https://github.com/mahmoudalrefaey/chinhook">Code</a> · <a href="https://chinhook.vercel.app">Live app</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mahmoudalrefaey/OrbitTalent">OrbitTalent</a></h3>
+      <p>Multi-tenant CV screening platform. A four-tier scoring cascade (keyword gate, BM25, low-cost LLM, deeper LLM) calls paid models only where needed.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" alt="AWS EC2"/>
+      </p>
+      <a href="https://github.com/mahmoudalrefaey/OrbitTalent">Code</a> · <a href="https://orbit-talent.vercel.app">Live beta</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://huggingface.co/mahmoudalrefaey/clarivis-r1">Clarivis-R1</a></h3>
+      <p>Gemma 4 E2B fine-tuned with LoRA on 300K chart-reasoning samples (IBM ChartNet) to reason step by step. 51.64% relaxed accuracy on ChartQA.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+        <img src="https://img.shields.io/badge/Unsloth-111827?style=flat-square" alt="Unsloth"/>
+        <img src="https://img.shields.io/badge/Hugging_Face_TRL-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face TRL"/>
+        <img src="https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="SageMaker"/>
+      </p>
+      <a href="https://huggingface.co/mahmoudalrefaey/clarivis-r1">Model card</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>SpendHiST</h3>
+      <p>Receipt management and spending analytics. OCR and LLM extraction for English and Arabic receipts (95% and 83% extraction accuracy), plus a LangGraph multi-agent backend.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/>
+      </p>
+      <a href="https://drive.google.com/file/d/1hR_kMIkLOotRYRB1YPw8kKPNhrA6NylD/view?usp=sharing">Demo video</a>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>More projects</b></summary>
 <br>
 
-### 🎓 Education
+| Project | What it is | Links |
+|---|---|---|
+| Telecom churn prediction (graduation project) | Team lead of 6. Stacking ensemble (XGBoost, LightGBM, Random Forest), 84.5% ROC-AUC, Django REST + React | [Code](https://github.com/mahmoudalrefaey/TelePredict) · [Report](https://www.researchgate.net/publication/393647240_Customer_Churn_in_Telecom_Predictive_Modeling_for_Enhanced_Retention_Strategies) |
+| PDFPal | RAG chat and semantic search over multiple PDFs with local LLMs and FAISS | [Code](https://github.com/mahmoudalrefaey/PDFPal-PDF-chatbot) · [Live app](https://pdfpal.streamlit.app/) |
+| Energy consumption forecasting | Hourly household electricity forecasting with XGBoost and Prophet | [Code](https://github.com/mahmoudalrefaey/Energy-Consumption-Forecasting) |
+| Food classification | Vision Transformer food classifier | [Live app](https://huggingface.co/spaces/mahmoudalrefaey/FoodClassifier-ViT) |
+| Land cover classification | ResNet50 on EuroSAT satellite images | [Code](https://github.com/mahmoudalrefaey/LandCoverClassification) |
 
----
+</details>
 
-#### 🏫 **B.Sc. in Artificial Intelligence (Honors)**
+## <img src="https://api.iconify.design/lucide/cpu.svg?color=%232f81f7" height="24" align="top" alt=""/> Tech stack
 
-- ![University Badge](https://img.shields.io/badge/Egyptian_Russian_University-0055A4?style=flat&logo=university&logoColor=white)
-- ![Grade Badge](https://img.shields.io/badge/Grade-Very_Good_(Honors)-brightgreen)
-- ![Duration Badge](https://img.shields.io/badge/Duration-Oct%202021%20–%20Jul%202025-yellow)
-- 📚 **Key Courses**: Machine Learning, Deep Learning, NLP, Computer Vision, Reinforcement Learning, Database Systems, Data Structures & Algorithms, OOP
-- 🧪 **Graduation Project**: AI-Powered Churn Prediction Platform for Telecom Companies
+<p>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,fastapi,django,postgres,mysql&perline=8" alt="Python, PyTorch, TensorFlow, scikit-learn, FastAPI, Django, PostgreSQL, MySQL"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=docker,aws,azure,react,nextjs,git,github&perline=7" alt="Docker, AWS, Azure, React, Next.js, Git, GitHub"/>
+</p>
 
----
+**LLM & GenAI:**
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=openai&logoColor=white" alt="Azure OpenAI"/>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" alt="Qdrant"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square" alt="ChromaDB"/>
+<img src="https://img.shields.io/badge/DeepEval-4F46E5?style=flat-square" alt="DeepEval"/>
+<img src="https://img.shields.io/badge/LoRA%20%2F%20QLoRA-6D28D9?style=flat-square" alt="LoRA / QLoRA"/>
 
-#### 🏅 **Certifications & Courses**
+## <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%232f81f7" height="24" align="top" alt=""/> Education & certifications
+
+**B.Sc. in Artificial Intelligence**, Egyptian Russian University · Very Good (Honors) · <sub>Oct 2021 – Jul 2025</sub><br>
+**Data Science Trainee**, Digital Egypt Pioneers Initiative (DEPI) · <sub>Oct 2024 – May 2025</sub>
 
 | Certification | Provider |
-|---------------|----------|
-| 📜 Machine Learning Specialization | DeepLearning.AI & Stanford University |
-| 📜 IBM AI & Data Science | Digital Egypt Pioneers Initiative (DEPI) |
-| 📜 Deep Learning with PyTorch | Mahara Tech (ITI) |
-| 📜 Developing Applications with LangChain/LangGraph | DataCamp |
-| 📜 AWS Cloud Practitioner Essentials | Amazon Web Services |
-| 📜 ML & Deep Learning Training Course | Zewail City of Science, Technology and Innovation |
+|---|---|
+| Machine Learning Specialization | DeepLearning.AI & Stanford (Coursera) |
+| IBM AI & Data Science | DEPI, MCIT |
+| Deep Learning with PyTorch | Mahara Tech (ITI) |
+| Multi-Agent Systems with LangGraph | DataCamp |
+| Developing Applications with LangChain | DataCamp |
+| AWS Cloud Practitioner Essentials | Amazon Web Services |
 
----
+## <img src="https://api.iconify.design/lucide/book-open.svg?color=%232f81f7" height="24" align="top" alt=""/> Research & community
 
+- **Preprint:** [A Study of Generative Approaches for Balancing Imbalanced Data: SMOTE, GANs, and LLMs](https://www.researchgate.net/publication/393649231_A_Study_of_Generative_Approaches_for_Balancing_Imbalanced_Data_SMOTE_GANs_and_LLMs) (ResearchGate). Traditional sampling proved more stable than generative approaches for fraud detection.
+- **Community speaker, GDG Menofia (2026):** led a workshop on LLMs, prompt engineering and RAG.
+
+<div align="center">
 <br>
-
-# 💼 Experience
-
----
-
-## 🧑‍💻 AI Engineer  
-**Beetleware** · *Remote Internship*  
-**Aug 2025 – Jan 2026**
-
-- Built distributed AI models using the Ray framework and contributed to open-source projects.
-- Developed and deployed full-stack SaaS features with modern frameworks, APIs, and CI/CD.
-- Collaborated on real company projects in Agile teams, delivering production-ready solutions.
-
-[![Ray](https://img.shields.io/badge/Ray_Framework-028CF0?style=for-the-badge&logo=ray&logoColor=white)](https://www.ray.io/) [![Distributed AI](https://img.shields.io/badge/Distributed_AI-FF6F00?style=for-the-badge)](https://en.wikipedia.org/wiki/Distributed_computing) [![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://en.wikipedia.org/wiki/CI/CD) [![Open Source](https://img.shields.io/badge/Open_Source-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white)](https://opensource.org/)
-
----
-
-## 🧑‍💻 Data Science Trainee  
-**Digital Egypt Pioneers Initiative (DEPI)** · *Hybrid Traineeship*  
-**Oct 2024 – May 2025**
-
-- Built and deployed machine learning models using Python, Pandas, scikit-learn, and TensorFlow.
-- Collaborated in team projects simulating industry challenges, including data preprocessing and model evaluation.
-- Mentored and supported peers, helping them master core concepts in machine learning and data analysis.
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-
----
-
-<br>
-
-## 🛠️ Technical Skills
-
----
-
-### 🤖 Generative AI & NLP
-![LLMs](https://img.shields.io/badge/LLMs-Llama_3_|_DeepSeek_|_OpenAI-6A5ACD?style=flat)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-6A5ACD?style=flat)
-![Fine-tuning](https://img.shields.io/badge/Fine--tuning-QLoRA_|_PEFT-FF6F00?style=flat)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat&logo=meta&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-339933?style=flat)
-
----
-
-### 🧠 Machine Learning & Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-ViT_|_ResNet_|_OpenCV-4285F4?style=flat)
-![Ensemble Methods](https://img.shields.io/badge/Ensemble-XGBoost_|_LightGBM_|_RF-00C853?style=flat)
-
----
-
-### 📊 Data Science & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-315796?style=flat&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-Exploratory_Data_Analysis-blue?style=flat)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
----
-
-### 🖥️ Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
----
-
-### 🌐 Full-Stack Development
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
----
-
-### ☁️ MLOps & Cloud Engineering
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=flat&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-
-### 📐 Mathematics & Problem Solving
-![Probability](https://img.shields.io/badge/Probability-8B0000?style=flat)
-![Statistics](https://img.shields.io/badge/Statistics-4B0082?style=flat)
-![Calculus](https://img.shields.io/badge/Calculus-2E8B57?style=flat)
-![Analytical Thinking](https://img.shields.io/badge/Analytical_Thinking-1E90FF?style=flat)
-
----
-
----
-
-## 📚 Technical Publications & Research
-
----
-
-### 📄 Graduation Project Documentation
-**"Customer Churn in Telecom: Predictive Modeling for Enhanced Retention Strategies"** | Egyptian Russian University
-
-- Engineered a stacking ensemble (XGB-LGBM-RF) with 91% CV accuracy, deployed via a Django-React full-stack predictive platform.
-
-[![Documentation](https://img.shields.io/badge/Documentation-4285F4?style=flat&logo=google-docs&logoColor=white)](https://docs.google.com/document/d/1JV2VYZoAM_Ypk061Pw2hyYQXuK84PvaLfy6AaLCL-F8/edit?tab=t.0)
-
----
-
-### 📄 Research Paper & Technical Documentation
-**"A Study of Generative Approaches for Balancing Imbalanced Data: SMOTE, GANs, and LLMs"** | ResearchGate
-
-- Comparative study of SMOTE, GANs (CTGAN/TVAE), and LLMs for fraud detection, concluding traditional sampling offers superior stability over generative models.
-
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/)
-
-<br>
-
-## 🌟 Soft Skills
-
----
-
-### 🎯 Problem-Solving & Critical Thinking
-- Proven ability to analyze complex problems and devise data-driven solutions.
-- Highly adept at evaluating models and making decisions based on analytical insights.
-
-### 🤝 Teamwork & Collaboration
-- Experience working in interdisciplinary teams to develop AI solutions.
-- Strong communication skills with both technical and non-technical stakeholders.
-
-### 🧠 Creativity & Innovation
-- Passionate about solving unconventional challenges through innovative use of AI and data.
-
-### 🗣️ Communication
-- Ability to explain technical concepts clearly to non-technical stakeholders.
-
-### 👨‍🏫 Leadership
-- Led group projects and mentored junior team members in machine learning methodologies.
-
-### ⏳ Time Management
-- Efficiently managed overlapping academic and internship responsibilities while delivering high-quality work.
-
-### 🔍 Attention to Detail
-- Rigorous in model tuning, ensuring precision and accuracy in results.
-
-### 🔥 Self-Motivation
-- Consistently driven to improve technical skills and apply them in real-world scenarios.
-
----
-
-### 🌍 Languages
-- 🇪🇬 **Arabic**: Native
-- 🇬🇧 **English**: Fluent
-
----
-
-## 🔬 Featured Projects
-
----
-
-### 🖥️ NexaOS – AI-Powered Desktop Environment
-**AI Engineer – Full-Stack Developer** | React 19, TypeScript, Vite, Python, LLMs
-
-- Developed an AI-powered document management ecosystem featuring intelligent document, data, and PDF editors with automated content generation, custom file formats (.nd, .np, .ndf), and robust file-storage architecture.
-- Enhanced communication by connecting AI services with real-time chat (Socket.io) and internal email modules—providing smart, context-aware collaboration.
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mahmoudalrefaey) [![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://github.com/mahmoudalrefaey)
-
----
-
-### 📄 Interactive Multi-PDF Chat and Semantic Search with Local AI
-**AI Engineer** | Python, RAG, TinyLlama, DialoGPT, Phi-2
-
-- Engineered a modular RAG pipeline using Streamlit and FAISS for real-time semantic search and Q&A over multiple PDF documents.
-- Integrated local, open-source LLMs (TinyLlama, Phi-2) and Sentence-Transformers to enable private, cost-effective document intelligence.
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mahmoudalrefaey/PDFPal-PDF-chatbot) [![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://pdfpal.streamlit.app/)
-
----
-
-### 📊 AI-Powered Churn Prediction Platform for Telecom Companies
-**Data Scientist – Backend – Team Leader** | Python, Django, Machine Learning
-
-- Developed a high-performance stacking ensemble (XGBoost, LightGBM, RF) achieving **91% CV accuracy** and **84.5% ROC-AUC** for telecom retention.
-- Architected a multi-tenant Django REST backend with JWT authentication and real-time prediction APIs featuring probability scoring.
-- Led the end-to-end development life cycle as Team Leader, from technical documentation to full-stack deployment.
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mahmoudalrefaey) [![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://github.com/mahmoudalrefaey)
-
----
-
-### 🔗 Additional Projects
-
-| Project | Links |
-|---------|-------|
-| 🦙 **Fine-Tuning LLaMA3 for Coding Tasks** | [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/mahmoudalrefaey) [![Inference](https://img.shields.io/badge/Inference-6A5ACD?style=flat)](https://huggingface.co/mahmoudalrefaey) |
-| ⚡ **Energy Consumption Forecasting** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mahmoudalrefaey) [![Live App](https://img.shields.io/badge/Live_App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://github.com/mahmoudalrefaey) |
-| 🍕 **Food Classification ViT Model** | [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/mahmoudalrefaey/FoodClassifier-ViT) [![Live App](https://img.shields.io/badge/Live_App-6A5ACD?style=flat)](https://huggingface.co/spaces/mahmoudalrefaey/FoodClassifier-ViT) |
-| 🛰️ **Land Cover Classification with ResNet50 (EuroSAT)** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mahmoudalrefaey/LandCoverClassification) [![Demo](https://img.shields.io/badge/Demo-4285F4?style=flat)](https://github.com/mahmoudalrefaey/LandCoverClassification) |
-
----
+<sub>Open to AI Engineer roles · <a href="mailto:dev.mahmoudrefaey@gmail.com">dev.mahmoudrefaey@gmail.com</a></sub>
+</div>
